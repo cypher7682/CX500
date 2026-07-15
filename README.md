@@ -1,2 +1,8 @@
 # CX500
-Troubleshooting a Honda CX500, in python/psuedocode
+Maintaining the CX500. 
+
+My memory is shite, so this is essentially my flashcard repo of things I need to remember for the bike.
+
+## Topics:
+
+- Compression & Testing
