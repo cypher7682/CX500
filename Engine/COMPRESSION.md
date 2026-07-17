@@ -1,9 +1,11 @@
 # Compression
 
- - 120-150 PSI = Service manual recommendations
- - 100-120 PSI = Forum says is *okay*
- - <100 = Poor, and will struggle to start. A teardown and replacement job should be in the near horizon.
- - 70 PSI = Completely engine teardown is necessary *now*, replacing all gaskets and rings
+| PSI | Outcome |
+|---|---|
+| 120-150 | Service manual recommendation |
+| 100-120 | Forums say is 'okay' |
+| <100 | Poor. Engine will struggle to start. A teardown and refurb of all gaskets and rings should be on the near horizon |
+| <70 | Extremely poor. A **full** teardown and refurbishment is necessary |
 
 ## Testing
 **IMPORTANT NOTES**:
