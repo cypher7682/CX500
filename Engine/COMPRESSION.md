@@ -8,7 +8,8 @@
 | <70 | Extremely poor. A **full** teardown and refurbishment is necessary |
 
 ## Testing
-**IMPORTANT NOTES**:
+
+### Important notes:
 - Write down the compression values. Some of these steps are one-way streets, if you forget what the values are, you're SOL.
 - Compression test should be done `Dry Cold > Wet Cold > Get up to temp to clear out the oil > Hot > Wet Hot`.
 - "Dry" means 'No oil has been added to the cylinder'.
@@ -16,6 +17,7 @@
 - A Hot test may come back 10+ PSI higher, but worth checking anyway.
 - Read the instructions on your compression tester before proceeding.
 
+### Performing the test
 1. Remove head covers.
 1. Remove spark plugs.
 1. Screw in compression tester snuggly.
