@@ -1,34 +1,31 @@
 # Compression
 
-Service manual recommends 120-150 PSI on compression.
+ - 120-150 PSI = Service manual recommendations
+ - 100-120 PSI = Forum says is *okay*
+ - <100 = Poor, and will struggle to start. A teardown and replacement job should be in the near horizon.
+ - 70 PSI = Completely engine teardown is necessary *now*, replacing all gaskets and rings
 
 ## Testing
-If you are as forgetful as I am, write down the compression values. Some of these steps are one-way streets. If you don't write them down you'll forget.
+**IMPORTANT NOTES**:
+- Write down the compression values. Some of these steps are one-way streets, if you forget what the values are, you're SOL.
+- Compression test should be done `Dry Cold > Wet Cold > Get up to temp to clear out the oil > Hot > Wet Hot`.
+- "Dry" means 'No oil has been added to the cylinder'.
+- "Wet" means '5ml of thick engine oil added to the cylinder'.
+- A Hot test may come back 10+ PSI higher, but worth checking anyway.
+- Read the instructions on your compression tester before proceeding.
 
-- Remove head covers
-- Remove spark plugs
-- Screw in compression tester snuggly
-- Remove inspection bolt on rear engine, on alternator
-- Remove inspection bolt on the front of the engine (not the one on the right)
-- Crank the engine until you reach "TL" or "TR" on the alternator
-  - `TL` = Top (Dead Center) Left
-  - `TR` = Top (Dead Center) Right
-- LISTEN for audible hissing or bubbling, or anything... strange
-- Check compression of the corresponding cylinder
-- If compression is falling, you have a major leak
-- If compression is steady, but below spec:
-  - Compress again, and recheck
-- If compression is *still* below spec:
-  - Add a small squirt of oil (literally like 5ml) to the cylinder via the spark plug socket (you'll need to remove the tester)
-  - Fully crank the bike at least 5 times to spread the oil around and to seal up the cylinder
-  - Compress again.
-  - If compression is still poor, compress again.
-- If compression comes back HIGHER, your leak is at the piston rings. RIP. (Go read the engine teardown file, when it exists)
-- If compression remains poor, you're in luck! The leak is likely at the head gasket or valves.
-- Remove the exhauster and recompress
-- If you hear hissing out of the exhaust port, it's your valves not seating properly, else:
-- Loosen carb boot & rotate connector out of the way
-- Compress again, listening for hissing out of the intake side
-- If you hear hissing, it's the intake valves
+1. Remove head covers.
+1. Remove spark plugs.
+1. Screw in compression tester snuggly.
+1. Open the choke fully, and hold the throttle wide open.
+1. Crank the engine with the kill switch in the OFF position ensuring at least 5-7 complete turns, minimum or until the compression readings stabilise.
+1. If compression is below spec:
+  1. Add a small squirt of thick oil (literally like 5ml of clean engine oil) to the cylinder via the spark plug socket (you'll need to remove the tester).
+  1. Fully crank the bike at least 5 times to spread the oil around and to seal up the cylinder.
+  1. Fit the meter stem again.
+  1. Crank again.
+  1. If compression is still poor, crank again to validate.
+1. If compression comes back substantially (15-20 PSI) HIGHER, your leak is at the piston rings. *[Salute]* God speed.
+1. If compression remains poor, you're in luck! The leak is likely at the head gasket or valves.
 
 This will be updated as and when... I'm yet to buy a leak down tester...
