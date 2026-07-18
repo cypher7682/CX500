@@ -26,11 +26,11 @@
     - Throttle WIDE open,
     - Choke WIDE open,
 1. If compression is below spec:
-  1. Add a small squirt of thick oil (literally like 5ml of clean engine oil) to the cylinder via the spark plug socket (you'll need to remove the tester).
-  1. Fully crank the bike at least 5 times to spread the oil around and to seal up the cylinder.
-  1. Fit the meter stem again.
-  1. Crank again.
-  1. If compression is still poor, crank again to validate.
+    1. Add a small squirt of thick oil (literally like 5ml of clean engine oil) to the cylinder via the spark plug socket (you'll need to remove the tester).
+    1. Fully crank the bike at least 5 times to spread the oil around and to seal up the cylinder.
+    1. Fit the meter stem again.
+    1. Crank again.
+    1. If compression is still poor, crank again to validate.
 1. If compression comes back substantially (15-20 PSI) HIGHER, your leak is at the piston rings. *[Salute]* God speed.
 1. If compression remains poor, GREAT! The leak is likely at the head gasket, valves (clearance, seating, etc).
 
