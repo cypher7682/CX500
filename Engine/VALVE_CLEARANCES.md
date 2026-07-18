@@ -16,7 +16,9 @@
 - The locking nut may be done up, shall we say, *too* well.
   - A small torque wrench may be required to verify if you're applying too much force to unlock it, and to make sure you only re-torque to spec.
   - If it's a bit stuck, but cautious and apply some penetrating oil or whatever if it's dry
-- Clearance MUST be measured cold. 
+- Clearance MUST be measured cold.
+- If your clearances are too tight then the manual's instructions of "when there's free play in the rocker arms" won't apply.
+  - Just get it to TR/TL on the compression stroke (see above) and loosen the adjuster screws with a tiny square slot spanner and start from there.
 
 ### Performing the Calibration
 1. Take the head cover off
