@@ -13,7 +13,9 @@
 - The CX500 is a 4 stroke - this means that the cam shaft rotates 180º whilst the rotor rotates 360º... this is important. I have made this mistake.
 - The "adjustment screw" is the square headed screw.
 - The "locking nut" is the actual nut surrounding that screw.
-- The locking nut may be done up, shall we say, *too* well. A small torque wrench may be required to unlock it, but make sure you only re-torque to spec.
+- The locking nut may be done up, shall we say, *too* well.
+  - A small torque wrench may be required to verify if you're applying too much force to unlock it, and to make sure you only re-torque to spec.
+  - If it's a bit stuck, but cautious and apply some penetrating oil or whatever if it's dry
 - Clearance MUST be measured cold. 
 
 ### Performing the Calibration
