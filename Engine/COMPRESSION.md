@@ -2,9 +2,10 @@
 
 | PSI | Outcome |
 |---|---|
-| 120-150 | Service manual recommendation |
-| 100-120 | Forums say is 'okay' |
-| <100 | Poor. Engine will struggle to start. A teardown and refurb of all gaskets and rings should be on the near horizon, even if the bike actually starts |
+| 150+ | Service manual recommendation |
+| 120-150 | Decent |
+| 100-120 | 'Okay' |
+| <100 | Poor. Engine will struggle to start, if it even does |
 | <70 | Extremely poor. A **full** teardown and refurbishment is necessary |
 
 ## Testing
