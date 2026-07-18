@@ -22,9 +22,9 @@
 1. Remove spark plugs.
 1. Screw in compression tester snuggly (by hand)
 1. Crank the engine 5-7 times until compression readings stabilise, with:
-  - the kill switch in the OFF position,
-  - Throttle WIDE open,
-  - Choke WIDE open,
+    - the kill switch in the OFF position,
+    - Throttle WIDE open,
+    - Choke WIDE open,
 1. If compression is below spec:
   1. Add a small squirt of thick oil (literally like 5ml of clean engine oil) to the cylinder via the spark plug socket (you'll need to remove the tester).
   1. Fully crank the bike at least 5 times to spread the oil around and to seal up the cylinder.
