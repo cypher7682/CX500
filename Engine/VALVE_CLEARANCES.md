@@ -34,3 +34,4 @@
 1. Once they are calibrated, maintain the adjuster screw position with the tool you used to tweak it and tighten down on the locking nut. 
 1. Once you've done all valves, torque to spec (above)
 1. Recheck the clearance after retorqueing
+1. Do a compression test to make sure that's still okay
